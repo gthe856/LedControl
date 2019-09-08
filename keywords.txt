@@ -21,7 +21,8 @@ setRow		KEYWORD2
 setColumn	KEYWORD2
 setDigit	KEYWORD2
 setChar		KEYWORD2
-
+setRows KEYWORD2
+rev	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
